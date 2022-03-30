@@ -1,0 +1,10 @@
+Variables: Las variables son una forma de guardar informacion para usar mas tarde.
+String: Las Strings son una parte de texto. Siempre se escriben entre comillas.
+Funciones: Las funciones son un conjunto de calculos que debe hacer la computadora en base a lo que le pedimos. Son objetos que se pueden invocar. 
+Las partes de una funcion son: la palabra clave "function", el nombre de la funcion, los parentesis, donde dentro de ellos vamos a colocar
+nuestro "argumento". El argumento es similar a una variable, guarda informacion que la misma funcion va a usar luego.
+Despues se encuentran las llaves. Dentro de estas va a ir todo nuestro codigo, en el cual vamos a poder colocar el objeto "return", el cual sirve
+para devolver lo que sea que le pidamos de la funcion. Es la unica forma de que los datos puedan escapar de la funcion.
+Declaraciones: Las declaraciones son "return", ya explicado anteriormente y "scope", el cual es el alcance que tiene la funcion.
+Valor booleano true: El valor booleano "true" es, simplemente, algo verdadero, un 1 en codigo binario.
+Valor booleano false: El valor "false" es todo lo contrario a true, es un valor falso, un 0 en codigo binario.
