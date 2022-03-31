@@ -1,0 +1,4 @@
+For: for es un tipo de bucle utilizado para poder realizar varios calculos automaticamente.
+&&:&& son operadores de comparación utilizados para comparar booleanos. Si uno de los dos calculos da false, toda la funcion da false. Si el primero de los calculos da true pero el segundo false, toda la funcion da false. Si los dos primeros calculos dan true, la funcion da true.
+||: || tambien son operadores de comparacion para comparar booleanos. Si uno de los dos calculos da false, pero el otro calculo da true, la funcion da true. solo si los dos calculos dan false, la funcion da false.
+!: ! es un operador el cual sirve para dar vuelta el valor de un numero o booleano. ej: !1 = -1.
